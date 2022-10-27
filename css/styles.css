@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(12, 123, 250);
+}
+
+/* h1::first-line{
+    color: rgb(12, 123, 250);
+} */
+
+
+.card-body:hover {
+
+    background-color: rgba(43, 41, 41, 0.295);
+    color: rgb(255, 255, 255);
+}
+
+.form-select {
+    font-size: 1.5rem;
+}
+
+.form-select:hover {
+    color: rgb(12, 123, 250);
+    /* background-color: rgb(12, 123, 250); */
+}
+
+.btn-form:hover {
+    color: black;
+    background-color: white;
+    border: 2px solid rgb(12, 123, 250);
+}
+
+/*  HEADER */
+/* img{
+    width: 100%; */
+/* }
+h1{
+    color: rgb(50, 134, 230);
+    margin-top: 40%;
+
+} */
