@@ -1,1 +1,15 @@
-@import "./base/base";
+@import"./base/base";
+
+
+@import"./components/btns";
+@import"./components/carrousel";
+@import"./components/form";
+@import"./components/navbar";
+@import"./components/qsimg";
+@import"./components/tarjeta";
+
+
+@import"./pages/contacto";
+@import"./pages/index";
+@import"./pages/quienesSomos";
+@import"./pages/vehiculos";
