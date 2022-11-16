@@ -1,3 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif; }
 
+a {
+  text-decoration: none; }
+
+.btn-form:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid #0c7bfa; }
+
+.carrusel {
+  margin-top: -7px; }
+
+.card-body:hover {
+  background-color: rgba(43, 41, 41, 0.295);
+  color: white; }
+
+.navbar-nav .nav-link.active {
+  color: #0c7bfa; }
+
+.qs__img {
+  margin-top: -7px; }
+
+.card-body:hover {
+  background-color: rgba(43, 41, 41, 0.295);
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
