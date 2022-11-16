@@ -16,17 +16,20 @@ a {
   margin-top: -7px; }
 
 .card-body:hover {
-  background-color: rgba(43, 41, 41, 0.295);
-  color: white; }
+  transform: scale(1.15);
+ /* background-color: rgba(80, 78, 78, 0.671);
+color: white;  */
+}
 
-.navbar-nav .nav-link.active {
-  color: #0c7bfa; }
+.navbar-nav .nav-link.active{
+  color: #0c7bfa; 
+}
 
 .qs__img {
   margin-top: -7px; }
 
-.card-body:hover {
-  background-color: rgba(43, 41, 41, 0.295);
-  color: white; }
+/* .card-body:hover {
+  background-color: rgba(0, 0, 0, 0.295);
+  color: white; } */
 
 /*# sourceMappingURL=style.css.map */
