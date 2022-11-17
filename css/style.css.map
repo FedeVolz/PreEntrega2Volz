@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,CAAE;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,WAAW,EAAE,UAAU;EAEvB,GAAI;IACA,eAAe,EAAE,IAAI;;ACL7B,IAAK;EACD,gBAAgB,ECFF,OAAgB;EDG9B,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,eAAe;EAEvB,UAAQ;IACJ,KAAK,ECPK,OAAgB;IDQ1B,gBAAgB,EAAE,KAAK;IACvB,MAAM,EAAE,iBAA0B;;AEV1C,SAAS;EACL,UAAU,EAAE,IAAI;;ACGpB,4BAA6B;EACzB,KAAK,EFJS,OAAgB;;AGClC,QAAQ;EACJ,UAAU,EAAE,IAAI;;ACLpB,UAAW;EACP,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAC,KAAK;EAEP,gBAAQ;IACR,SAAS,EAAE,UAAU;;ACA7B,EAAE;EACE,KAAK,ELHS,OAAgB",
+"sources": ["../scss/base/_base.scss","../scss/components/_btns.scss","../scss/utils/_variables.scss","../scss/components/_carrousel.scss","../scss/components/_navbar.scss","../scss/components/_qsimg.scss","../scss/components/_tarjeta.scss","../scss/components/_title.scss"],
+"names": [],
+"file": "style.css"
+}
