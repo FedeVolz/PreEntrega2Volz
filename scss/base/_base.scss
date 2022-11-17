@@ -1,10 +1,14 @@
+// BASES DE LA PAGINA //
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+
+    & a {
+        text-decoration: none;
+    }
 }
 
-a {
-    text-decoration: none;
-}
+

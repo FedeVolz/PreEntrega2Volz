@@ -3,33 +3,34 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif; }
+  * a {
+    text-decoration: none; }
 
-a {
-  text-decoration: none; }
-
-.btn-form:hover {
-  color: black;
-  background-color: white;
-  border: 2px solid #0c7bfa; }
+.btn {
+  background-color: #0099e0;
+  color: white;
+  border: 1px solid black; }
+  .btn:hover {
+    color: #0099e0;
+    background-color: white;
+    border: 1px solid #0099e0; }
 
 .carrusel {
   margin-top: -7px; }
 
-.card-body:hover {
-  transform: scale(1.15);
- /* background-color: rgba(80, 78, 78, 0.671);
-color: white;  */
-}
-
-.navbar-nav .nav-link.active{
-  color: #0c7bfa; 
-}
+.navbar-nav .nav-link.active {
+  color: #0099e0; }
 
 .qs__img {
   margin-top: -7px; }
 
-/* .card-body:hover {
-  background-color: rgba(0, 0, 0, 0.295);
-  color: white; } */
+.card-body {
+  background-color: white;
+  color: black; }
+  .card-body:hover {
+    transform: scale(1.1); }
+
+h2 {
+  color: #0099e0; }
 
 /*# sourceMappingURL=style.css.map */

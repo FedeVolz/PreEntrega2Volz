@@ -1,3 +1,9 @@
+// Barra de Navegacion //
+
+
+@import "../utils/variables";
+
+
 .navbar-nav .nav-link.active {
-    color: rgb(12, 123, 250);
+    color:$Color-principal;
 }
