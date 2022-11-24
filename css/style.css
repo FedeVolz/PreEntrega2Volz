@@ -33,7 +33,9 @@
   .card-body:hover {
     transform: scale(1.1); }
 
-h2 {
-  color: #0099e0; }
+h1, h2 {
+  color: #0099e0;
+  font-size: 2rem;
+  border-color: black; }
 
 /*# sourceMappingURL=style.css.map */

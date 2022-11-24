@@ -2,7 +2,14 @@
 
 @import "../utils/variables";
 
-
-h2{
+@mixin estiloTitulos {
     color: $Color-principal;
+    font-size: 2rem;
+    border-color: black;
+    // font-weight: bold;
 }
+
+h1, h2{
+    @include estiloTitulos();
+}
+
