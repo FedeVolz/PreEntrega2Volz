@@ -23,14 +23,8 @@ i {
   i:hover {
     color: #0099e0; }
 
-.carrusel {
-  margin-top: -7px; }
-
 .navbar-nav .nav-link.active {
   color: #0099e0; }
-
-.qs__img {
-  margin-top: -7px; }
 
 .card-body {
   background-color: white;
@@ -38,9 +32,12 @@ i {
   .card-body:hover {
     transform: scale(1.1); }
 
+/* Fotos de Carrusel y Quienes somos */
+.carrusel, .qs__img {
+  margin-top: -7px; }
+
 h1, h2 {
   color: #0099e0;
-  font-size: 2rem;
-  border-color: black; }
+  font-size: 2rem; }
 
 /*# sourceMappingURL=style.css.map */

@@ -7,3 +7,15 @@
         
     }
 }
+
+
+/* Fotos de Carrusel y Quienes somos */
+
+
+@mixin fotoPrincipal {
+    margin-top: -7px;
+}
+
+.carrusel, .qs__img {
+    @include fotoPrincipal();
+}
