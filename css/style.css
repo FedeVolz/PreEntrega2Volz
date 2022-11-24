@@ -18,6 +18,11 @@
 .verStock {
   color: white; }
 
+i {
+  color: white; }
+  i:hover {
+    color: #0099e0; }
+
 .carrusel {
   margin-top: -7px; }
 

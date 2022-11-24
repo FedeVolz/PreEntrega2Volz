@@ -18,3 +18,11 @@
 .verStock{
     color: white;
 }
+
+i {
+    color: white;
+
+    &:hover {
+        color: $Color-principal;
+    }
+}
