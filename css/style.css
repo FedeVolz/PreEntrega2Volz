@@ -41,6 +41,9 @@ i {
 .carrusel, .qs__img {
   margin-top: -7px; }
 
+img {
+  border-radius: 5px; }
+
 h2, .nmFooter, .nmQS {
   color: #0099e0;
   font-size: 2rem; }

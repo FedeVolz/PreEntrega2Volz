@@ -19,3 +19,7 @@
 .carrusel, .qs__img {
     @include fotoPrincipal();
 }
+
+img{
+    border-radius: 5px;
+}
