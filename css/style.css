@@ -23,6 +23,11 @@ i {
   i:hover {
     color: #0099e0; }
 
+.uIngresos {
+  color: white;
+  border: 1px solid #0099e0;
+  background-color: #0099e0; }
+
 .navbar-nav .nav-link.active {
   color: #0099e0; }
 
@@ -36,7 +41,7 @@ i {
 .carrusel, .qs__img {
   margin-top: -7px; }
 
-h1, h2 {
+h2, .nmFooter, .nmQS {
   color: #0099e0;
   font-size: 2rem; }
 
